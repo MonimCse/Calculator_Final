@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="small_text">12sp</dimen>
+    <dimen name="strok">5dp</dimen>
+    <dimen name="redius">3dp</dimen>
+    <dimen name="common_margin">10dp</dimen>
+    <dimen name="large_text">35sp</dimen>
 </resources>
